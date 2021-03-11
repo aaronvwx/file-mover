@@ -1,0 +1,127 @@
+Van [C:/Users/Aaron/Downloads] naar:
+
+C:/Users/Aaron/Music/AC_DC - Bas_Dost.mp3
+C:/Users/Aaron/Music/AC_DC - Thunderstruck (Official Video).mp3
+C:/Users/Aaron/Music/Ambiente Fantástico_ na na na na na na na Bas Dost _Golo Sporting -Setúbal 11-08-2017.mp3
+C:/Users/Aaron/Documents/Compressed/02002807_aaron_van_wettere_reeks2 (1).zip
+C:/Users/Aaron/Documents/Compressed/02002807_aaron_van_wettere_reeks2.zip
+C:/Users/Aaron/Documents/Compressed/11.1 Overzicht.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.2 Behoefte aan concurrency-controle.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.3 Serialiseerbaarheid van transacties.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.4 'Timestamping'-methoden.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.5 'Locking'-methoden.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.6 'Deadlock'.mp4.zip
+C:/Users/Aaron/Documents/Compressed/11.7 Optimistische methoden.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.1 Overzicht.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.2 Uitdagingen.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.3 NoSQL databanksystemen.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.4 Key-value stores.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.5 Document stores.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.6 Column stores.mp4.zip
+C:/Users/Aaron/Documents/Compressed/12.7 Graafdatabanken.mp4.zip
+C:/Users/Aaron/Documents/Compressed/books.zip
+C:/Users/Aaron/Documents/Compressed/compressed-images-websiteplanet.zip
+C:/Users/Aaron/Documents/Compressed/coronalert.zip
+C:/Users/Aaron/Documents/Compressed/db_project_groep75.zip
+C:/Users/Aaron/Documents/Compressed/Mulish.zip
+C:/Users/Aaron/Documents/Compressed/Video31.mp4.zip
+C:/Users/Aaron/Documents/Compressed/fenn.tar.tar.gz
+C:/Users/Aaron/Images/5df53d639d946682aea85317aa2fe46a.jpg
+C:/Users/Aaron/Images/69002185d55aea8b3cd33ea450e217ddd7.jpg
+C:/Users/Aaron/Images/christina-wocintechchat-com-EkeThvO9VfM-unsplash.jpg
+C:/Users/Aaron/Images/IMG_3748.jpg
+C:/Users/Aaron/Images/jon-sailer-Pfh-iY5Cgbs-unsplash.jpg
+C:/Users/Aaron/Images/jorge-salvador-Lq8Mfp3HoEg-unsplash.jpg
+C:/Users/Aaron/Images/louis-reed-53jnUK5LqEY-unsplash.jpg
+C:/Users/Aaron/Images/louis-reed-MaDXpqp1vM0-unsplash.jpg
+C:/Users/Aaron/Images/oleg-gospodarec-7SrpdWgbuPE-unsplash.jpg
+C:/Users/Aaron/Images/pexels-adrien-olichon-2387793.jpg
+C:/Users/Aaron/Images/pexels-canva-studio-3153204.jpg
+C:/Users/Aaron/Images/pexels-daniel-putzer-633409.jpg
+C:/Users/Aaron/Images/pexels-format-1029757.jpg
+C:/Users/Aaron/Images/pexels-fwstudio-164005.jpg
+C:/Users/Aaron/Images/pexels-henry-&-co-1939485.jpg
+C:/Users/Aaron/Images/pexels-jorge-jesus-614117.jpg
+C:/Users/Aaron/Images/pexels-lorenzo-242236.jpg
+C:/Users/Aaron/Images/pexels-lumn-316466.jpg
+C:/Users/Aaron/Images/pexels-miguel-á-padriñán-3520692.jpg
+C:/Users/Aaron/Images/pexels-miguel-á-padriñán-3520696.jpg
+C:/Users/Aaron/Images/pexels-neo-2653362.jpg
+C:/Users/Aaron/Images/pexels-panumas-nikhomkhai-1148820.jpg
+C:/Users/Aaron/Images/pexels-sora-shimazaki-5926398.jpg
+C:/Users/Aaron/Images/pexels-suzy-hazelwood-2543299.jpg
+C:/Users/Aaron/Images/pexels-tbee-82256.jpg
+C:/Users/Aaron/Images/6AF6F07F-0855-4A36-AFB4-D2C4BAC2FB4F.jpeg
+C:/Users/Aaron/Images/2020-11-29_18.25.35-min.png
+C:/Users/Aaron/Images/2020-11-29_18.25.55-min.png
+C:/Users/Aaron/Images/2020-11-29_18.26.16-min.png
+C:/Users/Aaron/Images/2020-11-29_18.26.42-min.png
+C:/Users/Aaron/Images/2020-11-29_18.28.16-min.png
+C:/Users/Aaron/Images/2020-12-01_11_optimized.20.46.png
+C:/Users/Aaron/Images/2020-12-01_11_optimized.28.40.png
+C:/Users/Aaron/Images/2020-12-01_16.42.53-min.png
+C:/Users/Aaron/Images/2020-12-01_16.43.18-min.png
+C:/Users/Aaron/Images/2020-12-01_16.43.46-min.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.15.02.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.17.34.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.17.45.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.18.03.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.18.17.png
+C:/Users/Aaron/Images/2020-12-04_22_optimized.18.28.png
+C:/Users/Aaron/Images/2020-12-05_18_optimized.01.08.png
+C:/Users/Aaron/Images/2020-12-07_17_optimized.36.32.png
+C:/Users/Aaron/Images/2020-12-07_18_optimized.32.58.png
+C:/Users/Aaron/Images/2020-12-07_18_optimized.33.11.png
+C:/Users/Aaron/Images/2020-12-07_18_optimized.33.17.png
+C:/Users/Aaron/Images/2020-12-07_18_optimized.33.33.png
+C:/Users/Aaron/Images/2020-12-07_18_optimized.33.53.png
+C:/Users/Aaron/Images/2020-12-08_17.31.51-min.png
+C:/Users/Aaron/Images/2020-12-24_17.56.17-min.png
+C:/Users/Aaron/Images/2020-12-24_18.00.51-min.png
+C:/Users/Aaron/Images/2020-12-26_19.00.14-min.png
+C:/Users/Aaron/Images/2020-12-26_19.00.34-min.png
+C:/Users/Aaron/Images/2020-12-26_19.00.45-min.png
+C:/Users/Aaron/Images/Bord RAF 2020-12-09 15u50-17u00.png
+C:/Users/Aaron/Images/Eric meme.png
+C:/Users/Aaron/Images/ov1cx3hr45a01.png
+C:/Users/Aaron/Images/tiktokaccounts_enquete.png
+C:/Users/Aaron/Images/language-white-18dp.svg
+C:/Users/Aaron/Documents/Executables/audacity-win-2.4.2.exe
+C:/Users/Aaron/Documents/Executables/ideaIU-2020.3.2.exe
+C:/Users/Aaron/Documents/Executables/pycharm-professional-2020.3.3.exe
+C:/Users/Aaron/Documents/Executables/OptiFine_1.16.5_HD_U_G6.jar
+C:/Users/Aaron/Documents/Executables/OptiFine_1.8.9_HD_U_L5.jar
+C:/Users/Aaron/Documents/Executables/preview_OptiFine_1.15.2_HD_U_G5_pre1.jar
+C:/Users/Aaron/Documents/Word/EC_geinformeerdetoestemming.docx
+C:/Users/Aaron/Documents/Word/verklaring_op_eer_databanken_c-code.docx
+C:/Users/Aaron/Documents/Pdf/Ch8_FundamentalsOfDatabaseSystems.pdf
+C:/Users/Aaron/Documents/Pdf/Databanken_samenvatting_1.pdf
+C:/Users/Aaron/Documents/Pdf/EC_geinformeerdetoestemming.pdf
+C:/Users/Aaron/Documents/Pdf/evaluatie-VanWettereA.pdf
+C:/Users/Aaron/Documents/Pdf/LEERSTOF_DIWI.pdf
+C:/Users/Aaron/Documents/Pdf/RAF OPL.pdf
+C:/Users/Aaron/Documents/Pdf/RAF_OPL2.pdf
+C:/Users/Aaron/Documents/Pdf/solutions.pdf
+C:/Users/Aaron/Documents/Pdf/VanStartMetPython.pdf
+C:/Users/Aaron/Documents/Pdf/verklaring_op_eer_databanken_c-code.pdf
+C:/Users/Aaron/Documents/Pdf/[2016-2017 - 2e zit] Programmeren.pdf
+C:/Users/Aaron/Documents/Pdf/[2019-2020 - 1e zit] Databanken (1).pdf
+C:/Users/Aaron/Documents/Pdf/[2019-2020 - 1e zit] Databanken.pdf
+C:/Users/Aaron/Documents/Text/check_korting_reservatie_activiteit_trigger.txt
+C:/Users/Aaron/Documents/Text/check_overlapping_openingstijd_openingsperiode.txt
+C:/Users/Aaron/Documents/Text/check_overlapping_reservatie_activiteit.txt
+C:/Users/Aaron/Documents/Text/check_overlapping_reservatie_hotel.txt
+C:/Users/Aaron/Documents/Text/message.txt
+C:/Users/Aaron/Documents/Text/project_querys.txt
+C:/Users/Aaron/Documents/Text/watbouwen.txt
+C:/Users/Aaron/Documents/Programmeren/test.py
+C:/Users/Aaron/Documents/System/desktop.ini
+C:/Users/Aaron/Documents/Data/covid19 (1).csv
+C:/Users/Aaron/Documents/Data/covid19.csv
+C:/Users/Aaron/Documents/Data/data-1607941715141.csv
+C:/Users/Aaron/Documents/Data/data-1608319445831.csv
+C:/Users/Aaron/Documents/Data/kleuren (1).csv
+C:/Users/Aaron/Documents/Data/kleuren (2).csv
+C:/Users/Aaron/Documents/Data/kleuren.csv
+C:/Users/Aaron/Documents/Data/pokemon.4.csv
+C:/Users/Aaron/Documents/Data/pokemon.csv
