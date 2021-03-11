@@ -20,7 +20,7 @@ You can download the 3 files, but they need to be at the same destination. You c
 
 This was the first year I got a programming class in Belgium, this was my thesis for my final year in High School. The task was to create the game 'Hangman' but I already made that before the teacher announced the task.
 
-Originally I wanted to build an application that allowed users to move files from the download folder to another folder by looking at the extension. I expanded the program and now you can choose where you move files from. I added a log file to the program to see where your files went so you can track them down.
+Originally I wanted to build an application that allowed users to move files from the download folder to another folder by looking at the extension. I expanded the program and now you can choose where you move files from and to. I added a log file to the program to see where your files went so you can track them down.
 
 One of the main challenges I ran into was making a database in a txt file. You normally don't use a txt file for a database but at the time it seems the easiest.
 
